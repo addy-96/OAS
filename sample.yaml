@@ -1,0 +1,11 @@
+openapi: 1.0.0
+info: 
+  version: 1.0.0
+  title: Sample Open Api Doc
+
+server: 
+  - url: ""
+
+path:
+  /getUser:
+  
